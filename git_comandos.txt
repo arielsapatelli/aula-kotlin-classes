@@ -1,7 +1,7 @@
-
+﻿
 git clone = copia o repositório 
 git pull = faz uma atualização do repostiório puxando as ultimas alteraçoes
 
 git add .  = adiciona novas alteraçoes
 git commit -m"mensagem da alteraçao" = salva localmente as alteracoes
-pit push = envia suas alteracoes para o repositorio 
+git push = envia suas alteracoes para o repositorio 
